@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/al/data/projects/rules-module-one/target/scala-2.11/rules-module-one_2.11-1.0-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	foo[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-module-one/target/scala-2.11/classes/foo[0m
+[0m[[0mdebug[0m] [0m	foo/rules[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-module-one/target/scala-2.11/classes/foo/rules[0m
+[0m[[0mdebug[0m] [0m	foo/rules/impl/AmountGreaterThanRule.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-module-one/target/scala-2.11/classes/foo/rules/impl/AmountGreaterThanRule.class[0m
+[0m[[0mdebug[0m] [0m	foo/rules/impl/BusinessRuleService.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-module-one/target/scala-2.11/classes/foo/rules/impl/BusinessRuleService.class[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-module-one/target/scala-2.11/classes/application.conf[0m
+[0m[[0mdebug[0m] [0m	foo/rules/impl[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-module-one/target/scala-2.11/classes/foo/rules/impl[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
